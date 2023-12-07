@@ -1,5 +1,7 @@
 package com.lec.div;
 
+import com.lec.mul.AddSubMul;
+
 public class AddSubMulDiv extends AddSubMul{
 	
 	public int getDiv2(int num1, int num2) {
