@@ -1,4 +1,4 @@
-package add;
+package com.lec.add;
 
 public class Add {
 	// Field
