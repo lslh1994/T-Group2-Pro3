@@ -3,10 +3,10 @@ package com.lec.add;
 public class Add {
 	// Field
 		public String pStr="덧셈";
-		int num1=0;
-		int num2=0;
-		int num3=0;
-		int num4=0;
+		public int num1=0;
+		public int num2=0;
+		public int num3=0;
+		public int num4=0;
 				
 		
 		
