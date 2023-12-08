@@ -4,6 +4,13 @@ import com.lec.sub.AddSub;
 
 public class AddSubMul extends AddSub{
 	
+	/* 
+	 Date : 2023.12.08
+	 Author : HWi-Lee
+	 Description : AddSubMul
+	 */
+	
+	
 	public AddSubMul() {
 		
 	}

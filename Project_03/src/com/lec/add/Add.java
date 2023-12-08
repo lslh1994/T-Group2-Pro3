@@ -2,6 +2,13 @@ package com.lec.add;
 
 public class Add {
 
+	/*
+	 Date : 2023.12.08
+	 Author : Shim-Hyun-Bin
+	 Description : Add  
+	 */
+	
+	
 	public int num1;
 	public int num2;
 	public int num3;
