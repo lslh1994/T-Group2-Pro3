@@ -15,8 +15,8 @@ public class Add {
 		
 		public Add(int num1, int num2) { // 2-3번 : 생성자 이름을 무조건 위와 동일하게 만들어야함(메인에서 매개변수 차이로 생성자 차이 알아야함.)
 			
-			this.num1=num1; // 2-4 : 받은 매개변수 num1를 Field 에 있는 num1로 초기화.
-			this.num2=num2; //       받은 매개변수 num2를 Field 에 있는 num2로 초기화.
+			this.num1 = num1; // 2-4 : 받은 매개변수 num1를 Field 에 있는 num1로 초기화.
+			this.num2 = num2; //       받은 매개변수 num2를 Field 에 있는 num2로 초기화.
 	
 //		public 뒤에 나오는 return type 이 없으므로 return 안해도 됨.
 			
